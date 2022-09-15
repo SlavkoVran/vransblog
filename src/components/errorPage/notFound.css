@@ -1,0 +1,15 @@
+.notFoundContainer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.title {
+    color: purple;
+    margin-bottom: 20px;
+}
+
+.text {
+    margin-bottom: 20px;
+}

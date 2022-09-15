@@ -1,0 +1,7 @@
+export const GET_POSTS_START = 'GET_POSTS_START'
+export const GET_POSTS_SUCCESS = 'GET_POSTS_SUCCESS'
+export const GET_POSTS_FAIL = 'GET_POSTS_FAIL'
+
+export const GET_USERS = 'GET_USERS'
+export const GET_COMMENTS = 'GET_COMMENTS'
+export const GET_POSTS_WITH_USERS = 'GET_POSTS_WITH_USERS'

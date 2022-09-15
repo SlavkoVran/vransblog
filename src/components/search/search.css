@@ -1,0 +1,10 @@
+.searchContainer {
+    justify-content: flex-start;
+}
+
+.search {
+    height: 35px;
+    border-radius: 15px;
+    padding:10px;
+    border: 1px solid var(--purple);
+}

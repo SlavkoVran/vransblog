@@ -1,0 +1,22 @@
+.containerCard {
+    background: var(--white);
+    margin: 30px 0px;
+    padding: 40px;
+    border-radius: 15px;
+}
+
+.cardTitle {
+    margin: 0 0 10px 0;
+    color: var(--black)
+}
+
+.line {
+    width: 150px;
+    height: 2px;
+    background: var(--purple);
+    margin-bottom: 10px;
+}
+
+.cardBody {
+    color: var(--black)
+}

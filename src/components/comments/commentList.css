@@ -1,0 +1,39 @@
+.containerCommentList {
+    margin: 40px 0 0 0;
+    width: 100%;
+}
+
+.commentTitle {
+    color: var(--black);
+    text-transform: lowercase;
+    font-size: 16px;
+}
+
+.commentContainer {
+    border-radius: 15px;
+    margin: 20px 0;
+}
+
+.commentName {
+    text-transform: capitalize;
+    font-weight: 900;
+    margin: 0 0 10px 0;
+}
+
+.commentBody {
+    font-size: 14px;
+    width: 80%;
+    color: var(--grayL);
+}
+
+.actBtn {
+    display: flex;
+    justify-content: flex-start;
+    color: #a9acae;
+    margin: 5px 0 0 0;
+    font-size: 14px;
+}
+
+.btnReplay {
+    margin: 0 0 0 10px;
+}
